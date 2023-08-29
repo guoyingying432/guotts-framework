@@ -1,0 +1,2 @@
+# guotts-framework
+consistencyvc可以作为vc任务的基础模版，这里是为tts任务做一个基础模版
